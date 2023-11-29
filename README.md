@@ -4,6 +4,7 @@ The calculator performs basic arithmetic operations and provides a clean interfa
 
 Features
 Basic Arithmetic Operations: Addition, Subtraction, Multiplication, and Division
+
 Responsive Design: The calculator is designed to work seamlessly on various devices, including desktops, tablets, and mobile phones.
 Clear and Intuitive Interface: The user interface is straightforward, making it easy for users to input and read calculations.
 
